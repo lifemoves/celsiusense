@@ -34,8 +34,8 @@ int tempPin = A0;
 
 // Update these with values suitable for your network.
 
-const char* ssid = "Cecilyfeng";
-const char* password = "yiyi85876098yiyi";
+const char* ssid = "";
+const char* password = "";
 const char* aws_iot_sub_topic = "topic/hello";
 const char* aws_iot_pub_topic = "mySNStopic/CelsiuSense";
 const char* aws_iot_pub_message = "Acknowledged.";
